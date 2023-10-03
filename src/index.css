@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+ background-color: rgb(250, 252, 255);
+  font-family: sans-serif;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+:root{
+  --navYellow: rgb(255, 221, 0);
+  --btnOrange: rgb(255, 140, 0);
+  --textDark:rgb(15, 13, 12);
+  --textLight:rgb(250, 252, 255);
+}
